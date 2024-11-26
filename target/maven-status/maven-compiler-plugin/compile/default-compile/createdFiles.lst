@@ -1,0 +1,4 @@
+cn\ecommerce\User.class
+cn\ecommerce\connection\dbConn.class
+com\web\ecommercewebsite\JakartaRestConfiguration.class
+com\web\ecommercewebsite\resources\JakartaEE8Resource.class
